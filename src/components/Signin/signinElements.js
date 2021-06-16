@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 import {Link} from 'react-router-dom'
-import { FaCentercode } from 'react-icons/fa'
 
 export const Container = styled.div`
     min-height:692px;
